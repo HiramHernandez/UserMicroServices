@@ -1,0 +1,3 @@
+https://dotnet.microsoft.com/es-es/learn/aspnet/microservice-tutorial/docker-file
+
+https://dev.to/esdanielgomez/rest-api-con-aspnet-6-y-mysql-21j0
